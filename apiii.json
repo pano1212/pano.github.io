@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "name1",
+            "image": "https://th.bing.com/th/id/OIP.m_b-nVzRifZ9bu8EvacaKwHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+            "price": "300000"
+
+        },
+        {
+            "id": 2,
+            "title": "name2",
+            "image": "https://th.bing.com/th/id/OIP.z4qrOdWERcq_d9O4NfKqZgHaIa?w=176&h=200&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+            "price": "300000"
+
+        },
+        {
+            "id": 3,
+            "title": "name3",
+            "image": "https://th.bing.com/th/id/OIP.iFw5nj2BRPj-2UkcUuF-sAHaG3?w=216&h=200&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+            "price": "300000"
+
+        },
+        {
+            "id": 4,
+            "title": "name4",
+            "image": "https://th.bing.com/th/id/OIF.oWvSmR7ipv7lDrwCDPSUlg?w=123&h=184&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+            "price": "300000"
+
+        }
+
+        
+    ]
+    
+}
